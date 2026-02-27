@@ -1,0 +1,8 @@
+# Private documents
+*.pdf
+
+# Original headshot (duplicate of assets/photo.jpg)
+anqichen_headshot_liveflyer.jpg
+
+# Unused placeholder
+assets/photo.svg
